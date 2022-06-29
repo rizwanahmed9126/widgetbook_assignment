@@ -1,0 +1,4 @@
+#Wed Jun 29 16:22:20 CEST 2022
+base.0=/Users/rizwanahmed/Documents/untitled folder/widgetbook-challenge/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/widgetbook_challenge/BuildConfig.java
+ com.example.widgetbook_challenge.BuildConfig
